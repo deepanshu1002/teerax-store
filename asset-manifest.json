@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/teerax-store/static/css/main.3e97fe88.css",
+    "main.js": "/teerax-store/static/js/main.4f6f7b41.js",
+    "static/js/453.414a2b83.chunk.js": "/teerax-store/static/js/453.414a2b83.chunk.js",
+    "index.html": "/teerax-store/index.html",
+    "main.3e97fe88.css.map": "/teerax-store/static/css/main.3e97fe88.css.map",
+    "main.4f6f7b41.js.map": "/teerax-store/static/js/main.4f6f7b41.js.map",
+    "453.414a2b83.chunk.js.map": "/teerax-store/static/js/453.414a2b83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e97fe88.css",
+    "static/js/main.4f6f7b41.js"
+  ]
+}
