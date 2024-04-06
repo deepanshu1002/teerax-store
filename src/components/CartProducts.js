@@ -8,7 +8,6 @@ const CartProducts = ({ product, total }) => {
 
   const { imageURL, price, name, quantity, id } = product;
   useEffect(() => {
-    console.log(qty + "---" + price);
     total(price);
   }, []);
   const handleSubstract = () => {
@@ -30,7 +29,7 @@ const CartProducts = ({ product, total }) => {
   return (
     <div className="flex gap-12 mb-2">
       <div>
-        <img className="w-36 p-2 border-[1px]" src={imageURL} />
+        <img className="w-36 p-2 border-[1px]" alt="product" src={imageURL} />
       </div>
       <div className="mt-8 w-24">
         <h1 className="font-bold">{name}</h1>
